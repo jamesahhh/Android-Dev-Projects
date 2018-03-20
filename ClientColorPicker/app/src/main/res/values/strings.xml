@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Client Color Picker</string>
+    <string name="displayMessage">Hit each button to select a color to display above</string>
+    <string name="secondColor">Color 2</string>
+    <string name="firstColor">Color 1</string>
+    <string name="blenderString">BLEND</string>
+    <string name="blendText">Hit BLEND and drag the bar to change the color above</string>
+    <string name="pickerTitle">Pick a Color Picking App</string>
+</resources>

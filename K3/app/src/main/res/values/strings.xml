@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">K3</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_to_change">These words will change if you click that button!</string>
+    <string name="change_text">Click to change the text</string>
+</resources>

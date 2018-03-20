@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashBeepShake</string>
+    <string name="switchText">Flashlight</string>
+    <string name="beepme">Beep Me 911</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assign1</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_text">Click to change text message</string>
+    <string name="text_to_change">Hello World!</string>
+    <string name="changed_text">Ajit Pai is the head of the FCC =((</string>
+    <string name="state_legislators">Talk to your state legislators!</string>
+</resources>

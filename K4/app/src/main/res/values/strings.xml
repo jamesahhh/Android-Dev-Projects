@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">K4</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_menu">Help</string>
+    <string name="help_change">You are beyond help...</string>
+    <string name="hide">Hide Text</string>
+    <string name="background">Change background color</string>
+</resources>
