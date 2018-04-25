@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     }
 
     override fun onAccuracyChanged(p0: Sensor?, p1: Int) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+
     }
 
     override fun onSensorChanged(sensorEvent: SensorEvent?) {
@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             window.decorView.setBackgroundColor(Color.GREEN)
         }
         else {
-
+            window.decorView.setBackgroundColor(Color.WHITE)
         }
 
             Log.i("X_VALUE", sensorEvent!!.values[0].toString())
